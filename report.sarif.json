@@ -22,8 +22,8 @@
               "id": "R02"
                       ...
               "properties" : {
-                 "id" : "java/unsafe-deserialization",
-                 "kind" : "path-problem",
+                 "id" : "demo r2 unsafe-deserialization",
+                 "kind" : "no-problem",
                  "name" : "...",
                  "problem.severity" : "recommendation",
                  "security-severity" : "9.8",
@@ -71,7 +71,7 @@
             }
           ],
           "partialFingerprints": {
-            "primaryLocationLineHash": "39fa2ee980eb94b0:1"
+            "primaryLocationLineHash": "39fa2ee980eb94b0:2"
           }
         }
       ]
