@@ -32,7 +32,7 @@
       "results": [
         {
           "ruleId": "R01",
-          "ruleIndex": 1
+          "ruleIndex": 1,
           "message": {
             "text": "Result text. Bla."
           },
