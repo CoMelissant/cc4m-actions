@@ -4,4 +4,5 @@ function runCc4m(downloadLocation)
     sarif = monkeyproof.cc4m.start('-pwd', '-recursive', '-generateSarif');
     movefile(sarif, 'report.sarif.json');
     exit(0);
+
 end
