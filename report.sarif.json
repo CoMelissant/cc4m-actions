@@ -50,9 +50,6 @@
               }
             }
           ],
-          "partialFingerprints": {
-            "primaryLocationLineHash": "39fa2ee980eb94b0:1"
-          }
         },
         {
           "ruleId": "R02",
@@ -73,9 +70,6 @@
               }
             }
           ],
-          "partialFingerprints": {
-            "primaryLocationLineHash": "39fa2ee980eb94b0:2"
-          }
         }
       ]
     }
