@@ -8,8 +8,7 @@
           "name": "Tool Name",
           "rules": [
             {
-              "id": "R01"
-                      ...
+              "id": "R01",
               "properties" : {
                  "id" : "java/unsafe-deserialization",
                  "kind" : "path-problem",
@@ -19,8 +18,7 @@
                }
             },
          {
-              "id": "R02"
-                      ...
+              "id": "R02",
               "properties" : {
                  "id" : "demo r2 unsafe-deserialization",
                  "kind" : "no-problem",
@@ -50,7 +48,7 @@
                   "endColumn": 10
                 }
               }
-            }.
+            },
             {
           "ruleId": "R02",
           "message": {
