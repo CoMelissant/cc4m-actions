@@ -5,8 +5,8 @@
     {
       "tool": {
         "driver": {
-          "name": "Tool Name",
-          "semanticVersion": "2.0.0",
+          "name": "CC4M",
+          "semanticVersion": "1.4.0",
           "rules": [
             {
               "id": "3f292041e51d22005ce48f39df3585d44ce1b0ad",
@@ -46,7 +46,7 @@
               }
             },
             {
-              "id": "R01"
+              "id": "R001"
             }
           ]
         }
@@ -65,7 +65,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "main.js",
+                  "uri": "runCc4m.m",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
